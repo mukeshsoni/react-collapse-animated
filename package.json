@@ -1,0 +1,27 @@
+{
+  "name": "react-collapse-animated",
+  "version": "1.0.0",
+  "description": "react component which animates from height zero to required height and vice versa",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukeshsoni/react-collapse-animated.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "collapse",
+    "animation",
+    "height",
+    "animation"
+  ],
+  "author": "Mukesh Soni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mukeshsoni/react-collapse-animated/issues"
+  },
+  "homepage": "https://github.com/mukeshsoni/react-collapse-animated#readme"
+}
