@@ -1,6 +1,6 @@
 {
   "name": "react-collapse-animated",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react component which animates from height zero to required height and vice versa",
   "main": "lib/index.js",
   "files": [
